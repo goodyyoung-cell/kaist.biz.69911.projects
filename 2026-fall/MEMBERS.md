@@ -96,6 +96,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 김이서 | [yiseo-kim.github.io](https://yiseo-kim.github.io) |
 | 홍하경 | [hakyung-hong.github.io](https://hakyung-hong.github.io) |
+| 손영훈 | [goodyyoung-cell.github.io](https://goodyyoung-cell.github.io) |
 
 ## Team 14
 
